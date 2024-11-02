@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Duggu Music Bot 🎵</h1>
+<h1 align="center">🎵 Venom Music BOT 🎵</h1>
 
 <p align="center">
   <img src="https://graph.org/file/e3b45a0dcd554d1ca9043.jpg" alt="Aviax Music Logo" width="600" height="150">
@@ -117,10 +117,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AlishaMusix_
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/DugguWorld">
+  <a href="https://telegram.me/venompratap">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/DugguWorld">
+  <a href="https://telegram.me/venompratapchat">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
